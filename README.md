@@ -63,7 +63,7 @@ Output logits over the vocabulary
 | --- | --- |
 | Loss (epoch 1) | 165.11 (summed over batches) |
 | Loss (epoch 50) | 4.34 (summed over batches) |
-| Accuracy | 95.65% |
+| Accuracy | 80.65% |
 
 > **Note:** accuracy is measured on the same data the model was trained on. The dataset is tiny, so the model largely memorizes the text. This project is meant for learning, not for production use.
 
